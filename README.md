@@ -1,5 +1,5 @@
-<h1 align="center">Hi There 👋, I'm  Kaushal</h1>
-<h2 align="center">A Passionate Full Stack Developer</h2>
+<h1 align="center">Hi There 👋, I'm  Kaushal </h1>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="Coding" width="250"/>
 
