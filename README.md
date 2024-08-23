@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="Coding" width="250"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=Profile%20views&color=green&style=flat" style="width: 150px;" alt="kaushalkumar08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" style="width: 150px;" alt="kaushalkumar08" /> </p>
 
 - 🌱 I’m currently learning **Swift** 
 
