@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Swift** 
 
-- 💬 Ask me about **Machine Learning, DevOps & Web Development**
+- 💬 Curious about **AI, Machine Learning & Web Development**
 
 
 <h3 align="left">Connect with me:</h3>
