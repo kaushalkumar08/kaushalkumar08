@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" style="width: 150px;" alt="kaushalkumar08" /> </p>
 
-- 🌱 I’m currently learning **Swift** 
+- 🌱 I’m currently learning **Kafka and Kubernetes** 
 
 - 💬 Curious about **AI, Machine Learning & Web Development**
 
