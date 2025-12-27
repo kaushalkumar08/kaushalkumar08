@@ -20,6 +20,6 @@
 
 <h3 align="left">Skills ✨</h3>
 <a href="https://skillicons.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,docker,git,mysql,py,php,r,vim,postman,nodejs,pytorch,tensorflow,opencv" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=kafka,react,js,html,css,tailwind,docker,git,mysql,py,postman,nodejs,pytorch,tensorflow,opencv" alt="My Skills" />
 </a>
 
