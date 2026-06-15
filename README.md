@@ -27,13 +27,13 @@
   React.js, Node.js, Express.js,  <br>
   RESTful APIs, Tailwind CSS
 
-  <b>Databases </b> 
+  <b>Databases </b> <br>
   MongoDB, PostgreSQL, MySQL
 
-  <b>AI & Specialized Tech</b>
-  Generative AI, RAG (Retrieval-Augmented Generation), 
+  <b>AI & Specialized Tech</b><br>
+  Generative AI, RAG (Retrieval-Augmented Generation), <br>
   Gemini API (Google AI Studio), Deepgram (STT/TTS), OpenAI API
 
-  <b>Tools & Platforms </b>
+  <b>Tools & Platforms </b><br>
   Docker, Kafka, Git/GitHub, Postman, VS Code
 
