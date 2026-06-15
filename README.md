@@ -52,7 +52,7 @@ integrating Generative AI ecosystems
 * 💻 Solved 600+ DSA problems across platforms ; LeetCode, Gfg 
 * 🥇 Hackathon(Jan 2026): Successfully competed in the Uservox Hackathon sprint.
 * 🤖 Voice AI Innovator: Architected and deployed a low-latency, voice-enabled AI Assistant.
-* 📊 Ranked in the top 1.2% in JEE 2023
+* 📊 Ranked in the top 1.2% in JEE 2021
 
 ### 📬 Reach me
 
