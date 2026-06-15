@@ -4,7 +4,7 @@
 </p>
 
 I am a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi. <br>
-Backend Engineer passionate about building 0-to-1 products, optimizing scalable architectures, and integrating Generative AI ecosystems
+Looking to building 0-to-1 products, optimizing scalable architectures, and integrating Generative AI ecosystems
 
 ---
 <!-- <p align="right">
