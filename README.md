@@ -20,13 +20,20 @@
 
 <h3 align="left">Skills ✨</h3>
 
-  Languages: C++ (Proficient: 500+ DSA problems solved), Python, JavaScript, SQL
+  <b> Languages </b>
+  C++, Python, JavaScript, SQL
   
-  Backend & Frameworks: React.js, Node.js, Express.js, RESTful APIs, Tailwind CSS
+  Backend & Frameworks
+  React.js, Node.js, Express.js, 
+  RESTful APIs, Tailwind CSS
 
-  Databases: MongoDB, PostgreSQL, MySQL
+  Databases
+  MongoDB, PostgreSQL, MySQL
 
-  AI & Specialized Tech: Generative AI, RAG (Retrieval-Augmented Generation), Gemini API (Google AI Studio), Deepgram (STT/TTS), OpenAI API
+  AI & Specialized Tech
+  Generative AI, RAG (Retrieval-Augmented Generation), 
+  Gemini API (Google AI Studio), Deepgram (STT/TTS), OpenAI API
  
-  Tools & Platforms: Docker, Kafka, Git/GitHub, Postman, VS Code
+  Tools & Platforms
+  Docker, Kafka, Git/GitHub, Postman, VS Code
 
