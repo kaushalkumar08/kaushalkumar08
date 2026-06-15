@@ -1,4 +1,4 @@
-<h2 align="left">Hi There 👋, I'm  Kaushal Kumar </h2>
+Hi There 👋, I'm  <b>Kaushal Kumar</b>
 I am a Computer Science undergraduate at Netaji Subhas University of Technology (NSUT)
 
 
