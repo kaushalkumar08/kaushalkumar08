@@ -12,6 +12,10 @@ integrating Generative AI ecosystems
   <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" />
 </p> -->
 
+### Driving Thought
+
+> Don't just prompt the future—be the architect who builds the backend running it.
+
 ### 🚀 What I'm currently focused on 
 
 * ☁️ **Cloud Architecture:** Amazon Web Services (AWS)
