@@ -8,11 +8,9 @@ I am a Computer Science graduate from Netaji Subhas University of Technology (NS
 
 ---
 
-<p align="right">
+<!-- <p align="right">
   <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" />
-</p>
-
----
+</p> -->
 
 ### 🚀 What I'm currently focused on 
 
