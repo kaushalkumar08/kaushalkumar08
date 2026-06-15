@@ -1,56 +1,44 @@
-Hi There 👋, I'm  <b>Kaushal Kumar</b> 
-
-
-I am a Computer Science undergraduate at Netaji Subhas University of Technology (NSUT)
-
----
-
-<div align="right">
-  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" />
+<div align="center">
+  <table width="100%" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="65%" align="left" style="vertical-align: top; border: none;">
+        <h1>Hi There 👋, I'm Kaushal Kumar</h1>
+        <p><strong>Computer Science & Engineering Graduate</strong> from Netaji Subhas University of Technology (NSUT), Delhi</p>
+        <p>Backend Engineer passionate about building 0-to-1 products, optimizing scalable architectures, and integrating Generative AI ecosystems.</p>
+        <br />
+        <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="150" />
+      </td>
+      <td width="35%" align="right" style="vertical-align: top; border: none;">
+        <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" style="border-radius: 8px;" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" style="width: 150px;" alt="kaushalkumar08" /> </p>
+### 🚀 What I'm currently focused on 
 
-
-<!-- <p align="left">
-<a href="https://linkedin.com/in/kaushal-k-90927222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-k-90927222a" height="30" width="40" /></a>
-</p> -->
+* ☁️ **Cloud Architecture:** Amazon Web Services (AWS)
+* 🧠 **Generative AI:** Large Language Models & RAG Ecosystems
+* ⚙️ **Backend Scalability:** Advanced API Design & Event-Driven Systems
 
 ---
 
-<h3 align="left"> What I'm currently focused on </h3> 
+### 🛠️ Technical Skills
 
-* Amazon Web Service <br>
-* Large Language Models <br>
-* AI Ecosystem <br>
+* **Languages:** `C++` | `Python` | `JavaScript` | `TypeScript` | `SQL`
+* **Backend & Frameworks:** `Node.js` | `Express.js` | `NestJS` | `RESTful APIs` | `React.js`
+* **Databases:** `PostgreSQL` | `MongoDB` | `MySQL` | `Redis`
+* **AI & Specialized Tech:** `Generative AI` | `RAG (Retrieval-Augmented Generation)` | `Gemini API` | `Deepgram` | `OpenAI API`
+* **Tools & Platforms:** `Docker` | `Apache Kafka` | `Git / GitHub` | `Postman` | `AWS`
 
 ---
 
-<h3 align="left"> Technical Skills </h3>
+### 📬 Reach me
 
-  <b> Languages </b> <br>
-  C++, Python, JavaScript, SQL
-  
-  <b>Backend & Frameworks </b> <br>
-  React.js, Node.js, Express.js,  <br>
-  RESTful APIs, Tailwind CSS
-
-  <b>Databases </b> <br>
-  MongoDB, PostgreSQL, MySQL
-
-  <b>AI & Specialized Tech</b><br>
-  Generative AI, RAG (Retrieval-Augmented Generation), <br>
-  Gemini API (Google AI Studio), Deepgram (STT/TTS), OpenAI API
-
-  <b>Tools & Platforms </b><br>
-  Docker, Kafka, Git/GitHub, Postman, VS Code
-  
----
-
-<h3 align="left"> 📬 Reach me</h3>
-
-📧 Email: kaushallkumar01@gmail.com  <br>
-💼 LinkedIn: https://www.linkedin.com/in/08kaushalkumar/ <br>
-💻 Github: https://github.com/kaushalkumar08 <br>
+* 📧 **Email:** [kaushallkumar01@gmail.com](mailto:kaushallkumar01@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/08kaushalkumar](https://www.linkedin.com/in/08kaushalkumar/)
+* 💻 **GitHub:** [github.com/kaushalkumar08](https://github.com/kaushalkumar08)
+* 📊 **LeetCode:** [leetcode.com/kaushalkumar08](https://leetcode.com/kaushalkumar08) *(Optional but highly recommended to add here!)*
 
