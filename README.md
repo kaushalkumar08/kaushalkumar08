@@ -1,19 +1,16 @@
-<div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td width="65%" align="left" style="vertical-align: top; border: none;">
-        <h1>Hi There 👋, I'm Kaushal Kumar</h1>
-        <p><strong>Computer Science & Engineering Graduate</strong> from Netaji Subhas University of Technology (NSUT), Delhi</p>
-        <p>Backend Engineer passionate about building 0-to-1 products, optimizing scalable architectures, and integrating Generative AI ecosystems.</p>
-        <br />
-        <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="150" />
-      </td>
-      <td width="35%" align="right" style="vertical-align: top; border: none;">
-        <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" style="border-radius: 8px;" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="150" />
+</p>
+
+Hi There 👋, I'm <b>Kaushal Kumar</b> 
+
+I am a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi.
+
+---
+
+<p align="right">
+  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" />
+</p>
 
 ---
 
