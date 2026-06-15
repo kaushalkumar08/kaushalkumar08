@@ -1,7 +1,6 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="150" />
 </p>
-
 Hi There 👋, I'm <b>Kaushal Kumar</b> 
 
 I am a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi.
