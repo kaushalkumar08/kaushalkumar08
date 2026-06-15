@@ -1,5 +1,5 @@
 <p>
-  <font size="6"><b>Hi There 👋, I'm Kaushal Kumar</b></font>
+  <font size="6"><b>Hi, I'm Kaushal Kumar</b></font>
   <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="140" align="right" />
 </p>
 
