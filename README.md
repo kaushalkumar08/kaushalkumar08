@@ -57,7 +57,7 @@ Backend Engineer passionate about building 0-to-1 products, optimizing scalable 
 
 ### 🤝 What I'm looking for
 
-I'm open to <b>backend roles</b>, <b>AI engineer roles</b>, and <b>collaborative projects</b> where I can learn deeply and build 
+I'm open to <b>backend roles</b>, <b>AI engineer roles</b>, and <b>collaborative projects</b> where I can learn deeply and build <br>
 meaningful, high-impact systems.
 
 ---
