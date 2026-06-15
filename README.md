@@ -47,7 +47,7 @@ Backend Engineer passionate about building 0-to-1 products, optimizing scalable 
 
 ### Highlights
 
-* 🔬 <b>AI Intern at C-DOT</b> - computer vision architectures for production-grade facial recognition pipelines.
+* 🔬 <b>AI Intern at C-DOT</b> - Researched computer vision architectures for production-grade facial recognition pipelines.
 * 💻 Solved <b>600+ DSA problems</b> across platforms ; LeetCode, Gfg 
 * 🥇 Hackathon(Jan 2026): Successfully competed in the Uservox Hackathon sprint.
 * 🤖 <b>Voice AI Innovator:</b> Architected and deployed a low-latency, voice-enabled AI Assistant.
