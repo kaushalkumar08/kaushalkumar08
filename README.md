@@ -3,6 +3,7 @@ Hi There 👋, I'm  <b>Kaushal Kumar</b>
 
 I am a Computer Science undergraduate at Netaji Subhas University of Technology (NSUT)
 
+---
 
 <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="Coding" width="250"/>
 
