@@ -46,6 +46,18 @@ integrating Generative AI ecosystems
 
 ---
 
+### Highlights
+
+* 🔬 Research Intern at C-DOT: Optimized deep learning computer vision architectures for production-grade facial recognition pipelines.
+
+* 💻 Master Problem Solver: Solved 600+ algorithmic problems on LeetCode with a peak global rating of 1574, demonstrating exceptional proficiency in Data Structures & Algorithms (DSA).
+
+* 🥇 Hackathon(Jan 2026): Successfully competed in the Uservox Hackathon, engineering and delivering a production-ready product from scratch within an intense 24-hour sprint.
+
+* 🤖 Voice AI Innovator: Architected and deployed a low-latency, voice-enabled AI Hospital Network Assistant leveraging Google Gemini and Deepgram APIs.
+
+* 🎓 Academic Excellence: Graduated with a B.Tech in Computer Science and Engineering from Netaji Subhas University of Technology (NSUT), Delhi.
+
 ### 📬 Reach me
 
 * 📧 **Email:** [kaushallkumar01@gmail.com](mailto:kaushallkumar01@gmail.com)
