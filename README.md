@@ -20,11 +20,24 @@ I am a Computer Science graduate from Netaji Subhas University of Technology (NS
 
 ### 🛠️ Technical Skills
 
-* **Languages:** `C++` | `Python` | `JavaScript`| `SQL`
-* **Backend & Frameworks:** `Node.js` | `Express.js` | `RESTful APIs` | `React.js`
-* **Databases:** `PostgreSQL` | `MongoDB` | `MySQL` | `Redis`
-* **AI & Specialized Tech:** `Generative AI` | `RAG (Retrieval-Augmented Generation)` | `Gemini API` | `Deepgram` | `OpenAI API`
-* **Tools & Platforms:** `Docker` | `Apache Kafka` | `Git / GitHub` | `Postman` | `AWS`
+* **Languages:** 
+`C++` | `Python` | `JavaScript`| `SQL`
+
+* **Backend & Frameworks:**
+
+  `Node.js` | `Express.js` | `RESTful APIs` | `React.js`
+  
+* **Databases:**
+
+  `PostgreSQL` | `MongoDB` | `MySQL` | `Redis`
+
+* **AI & Specialized Tech:**
+
+  `Generative AI` | `RAG (Retrieval-Augmented Generation)` | `Gemini API` | `Deepgram` | `OpenAI API`
+
+* **Tools & Platforms:**
+
+  `Docker` | `Apache Kafka` | `Git / GitHub` | `Postman` | `AWS`
 
 ---
 
