@@ -20,20 +20,20 @@
 
 <h3 align="left">Skills ✨</h3>
 
-  <b> Languages </b>
+  <b> Languages </b> <br>
   C++, Python, JavaScript, SQL
   
-  Backend & Frameworks
-  React.js, Node.js, Express.js, 
+  <b>Backend & Frameworks </b> <br>
+  React.js, Node.js, Express.js,  <br>
   RESTful APIs, Tailwind CSS
 
-  Databases
+  <b>Databases </b> 
   MongoDB, PostgreSQL, MySQL
 
-  AI & Specialized Tech
+  <b>AI & Specialized Tech</b>
   Generative AI, RAG (Retrieval-Augmented Generation), 
   Gemini API (Google AI Studio), Deepgram (STT/TTS), OpenAI API
- 
-  Tools & Platforms
+
+  <b>Tools & Platforms </b>
   Docker, Kafka, Git/GitHub, Postman, VS Code
 
