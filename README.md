@@ -34,7 +34,7 @@ I am a Computer Science graduate from Netaji Subhas University of Technology (NS
 
 * **AI & Specialized Tech:**
 
-  Generative AI, RAG (Retrieval-Augmented Generation),
+  Generative AI, RAG (Retrieval-Augmented Generation), <br>
   Gemini API, Deepgram, OpenAI API
 
 * **Tools & Platforms:**
