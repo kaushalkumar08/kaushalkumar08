@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left"> Technical Skills ✨</h3>
+<h3 align="left"> Technical Skills </h3>
 
   <b> Languages </b> <br>
   C++, Python, JavaScript, SQL
@@ -36,4 +36,9 @@
 
   <b>Tools & Platforms </b><br>
   Docker, Kafka, Git/GitHub, Postman, VS Code
+
+<h3 align="left"> 📬 Reach me</h3>
+📧 Email: kaushallkumar01@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/08kaushalkumar/
+💻 Github: https://github.com/kaushalkumar08
 
