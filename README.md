@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left"> What I'm currently focused on </h3> <br>
+<h3 align="left"> What I'm currently focused on </h3> 
 
 * Amazon Web Service <br>
 * Large Language Models <br>
