@@ -40,5 +40,5 @@
 * 📧 **Email:** [kaushallkumar01@gmail.com](mailto:kaushallkumar01@gmail.com)
 * 💼 **LinkedIn:** [linkedin.com/in/08kaushalkumar](https://www.linkedin.com/in/08kaushalkumar/)
 * 💻 **GitHub:** [github.com/kaushalkumar08](https://github.com/kaushalkumar08)
-* 📊 **LeetCode:** [leetcode.com/kaushalkumar]([https://leetcode.com/kaushalkumar08](https://leetcode.com/u/kaushalC0DE/))
+* 📊 **LeetCode:** [leetcode.com/kaushalkumar](https://leetcode.com/u/kaushalC0DE/))
 
