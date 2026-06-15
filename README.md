@@ -5,7 +5,9 @@ I am a Computer Science undergraduate at Netaji Subhas University of Technology 
 
 ---
 
-<img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" alt="Coding" width="250"/>
+<div align="right">
+  <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" />
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" style="width: 150px;" alt="kaushalkumar08" /> </p>
