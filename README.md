@@ -17,7 +17,7 @@
 </p>
 
 
-
+---
 <h3 align="left"> Technical Skills </h3>
 
   <b> Languages </b> <br>
@@ -36,6 +36,7 @@
 
   <b>Tools & Platforms </b><br>
   Docker, Kafka, Git/GitHub, Postman, VS Code
+---
 
 <h3 align="left"> 📬 Reach me</h3>
 
