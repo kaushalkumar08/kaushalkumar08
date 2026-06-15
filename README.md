@@ -1,4 +1,4 @@
-Hi There 👋, I'm  <b>Kaushal Kumar</b>
+Hi There 👋, I'm  <b>Kaushal Kumar</b> <br>
 I am a Computer Science undergraduate at Netaji Subhas University of Technology (NSUT)
 
 
