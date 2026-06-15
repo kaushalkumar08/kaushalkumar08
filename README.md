@@ -14,7 +14,7 @@ integrating Generative AI ecosystems
 
 ### Driving Thought
 
-> Don't just prompt the future—be the architect who builds the backend running it.
+> Don't just prompt the future— be the architect who builds the backend running it.
 
 ---
 
