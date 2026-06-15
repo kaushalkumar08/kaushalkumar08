@@ -20,8 +20,9 @@ I am a Computer Science graduate from Netaji Subhas University of Technology (NS
 
 ### 🛠️ Technical Skills
 
-* **Languages:** 
-`C++` | `Python` | `JavaScript`| `SQL`
+* **Languages:**
+  
+  `C++` | `Python` | `JavaScript`| `SQL`
 
 * **Backend & Frameworks:**
 
