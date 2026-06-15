@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" style="width: 150px;" alt="kaushalkumar08" /> </p>
 
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://linkedin.com/in/kaushal-k-90927222a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal-k-90927222a" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ---
 
