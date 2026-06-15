@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="140" align="right" />
 </p>
 
-I am a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi.
+I am a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi. Backend Engineer passionate about building 0-to-1 products, optimizing scalable architectures, and integrating Generative AI ecosystems
 
 ---
 <!-- <p align="right">
