@@ -60,6 +60,8 @@ Backend Engineer passionate about building 0-to-1 products, optimizing scalable 
 I'm open to <b>backend roles</b>, <b>AI engineer roles</b>, and <b>collaborative projects</b> where I can learn deeply and build 
 meaningful, high-impact systems.
 
+---
+
 ### 📬 Reach me
 
 * 📧 **Email:** [kaushallkumar01@gmail.com](mailto:kaushallkumar01@gmail.com)
