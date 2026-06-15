@@ -18,7 +18,7 @@
 
 
 
-<h3 align="left">Skills ✨</h3>
+<h3 align="left"> Technical Skills ✨</h3>
 
   <b> Languages </b> <br>
   C++, Python, JavaScript, SQL
