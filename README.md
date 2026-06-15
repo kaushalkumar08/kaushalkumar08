@@ -19,7 +19,7 @@
 
 
 <h3 align="left">Skills ✨</h3>
-<a href="https://skillicons.dev" target="_blank">
+
   Languages: C++ (Proficient: 500+ DSA problems solved), Python, JavaScript, SQL
   
   Backend & Frameworks: React.js, Node.js, Express.js, RESTful APIs, Tailwind CSS
@@ -29,5 +29,4 @@
   AI & Specialized Tech: Generative AI, RAG (Retrieval-Augmented Generation), Gemini API (Google AI Studio), Deepgram (STT/TTS), OpenAI API
  
   Tools & Platforms: Docker, Kafka, Git/GitHub, Postman, VS Code
-</a>
 
