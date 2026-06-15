@@ -54,6 +54,13 @@ integrating Generative AI ecosystems
 * 🤖 Voice AI Innovator: Architected and deployed a low-latency, voice-enabled AI Assistant.
 * 📊 Ranked in the top 1.2% in JEE 2021
 
+---
+
+### 🤝 What I'm looking for
+
+I'm open to <b>backend roles</b>, <b>AI engineer roles</b>, and <b>collaborative projects</b> where I can learn deeply and build 
+meaningful, high-impact systems.
+
 ### 📬 Reach me
 
 * 📧 **Email:** [kaushallkumar01@gmail.com](mailto:kaushallkumar01@gmail.com)
