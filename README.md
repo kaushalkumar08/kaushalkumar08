@@ -1,12 +1,11 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="150" />
+<p>
+  <font size="6"><b>Hi There 👋, I'm Kaushal Kumar</b></font>
+  <img src="https://komarev.com/ghpvc/?username=kaushalkumar08&label=PROFILE%20VIEWS&color=green&style=flat" alt="kaushalkumar08" width="140" align="right" />
 </p>
-Hi There 👋, I'm <b>Kaushal Kumar</b> 
 
 I am a Computer Science graduate from Netaji Subhas University of Technology (NSUT), Delhi.
 
 ---
-
 <!-- <p align="right">
   <img src="https://media.giphy.com/media/pOZhmE42D1WrCWATLK/giphy.gif?cid=790b7611q9voiduaxlalsijxxlnea4vgsgyt8xqtb2ddynua&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding" width="250" />
 </p> -->
