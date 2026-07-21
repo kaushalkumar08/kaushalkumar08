@@ -31,7 +31,7 @@ Looking to building 0-to-1 products, optimizing scalable architectures, and inte
   C++, Python, JavaScript, SQL
 
 * **Backend & Frameworks:** <br>
-  Node.js, Express.js, RESTful APIs, React.js
+  Node.js, Express.js, RESTful APIs, React.js, FastAPI
   
 * **Databases:** <br>
   PostgreSQL, MongoDB, MySQL, Redis
